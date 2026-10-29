@@ -25,6 +25,6 @@ print(circle(0))
 
 args can take multiple inputs  as a tuple
 
-kwargs are keyword arhuments that can take multiple inputs as a dictionary
+kwargs are keyword arguments that can take multiple inputs as a dictionary
 
 """
